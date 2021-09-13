@@ -1,6 +1,7 @@
+> 本項目已遺棄，請移至新版本 [CRT-HAO/WSCTW-Topics-Flarum-Post-2](https://github.com/CRT-HAO/WSCTW-Topics-Flarum-Post-2)    
 # WSCTW-Topics-Flarum-Post [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-全國技能競賽題目更新 自動發布到Flarum文章
-採用PHP編寫
+全國技能競賽題目更新 自動發布到Flarum文章  
+採用PHP編寫  
 
 The MIT License (MIT)
 =====================
